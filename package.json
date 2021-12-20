@@ -1,0 +1,22 @@
+{
+    "name": "pjs",
+    "version": "1.0.0",
+    "description": "Just a module to stringify your JSON in a pretty way.",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "keywords": [
+      "i2rys",
+      "json-stringify",
+      "pjs",
+      "pretty-json-stringify"
+    ],
+    "repository": "https://github.com/I2rys/PJS",
+    "author": {
+      "name": "I2rys",
+      "email": "i2rys@protonmail.com",
+      "website": "https://i2rys.xyz"
+    },
+    "license": "MIT"
+  }
